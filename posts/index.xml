@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on StoryTellers</title>
+    <link>https://storytellers.cc/posts/</link>
+    <description>Recent content in Posts on StoryTellers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2020 01:15:02 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://storytellers.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://storytellers.cc/posts/my-first-post/</link>
       <pubDate>Thu, 30 Jul 2020 01:15:02 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://storytellers.cc/posts/my-first-post/</guid>
       <description></description>
     </item>
     
